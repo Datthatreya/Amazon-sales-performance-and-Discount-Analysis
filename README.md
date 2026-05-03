@@ -11,11 +11,16 @@
 
 ## 💡 Project Summary
 Built an end-to-end Power BI dashboard on **1M+ e-commerce transactions** to analyze sales performance, discount strategies, and return behavior, delivering actionable insights for **revenue optimization and business decision-making**.
+---
 
+## 🔗 Dataset Source
+📥 Kaggle Dataset: [https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce]
 ---
 
 ## 🖼️ Dashboard Preview
+Sales Performance:
 ![Dashboard Overview](https://github.com/Datthatreya/Amazon-sales-performance-and-Discount-Analysis/blob/main/Sales%20performance.png)  
+Discount Analysis:
 ![Dashboard Overview](https://github.com/Datthatreya/Amazon-sales-performance-and-Discount-Analysis/blob/main/Discount%20%26%20Insights.png)
 ---
 
