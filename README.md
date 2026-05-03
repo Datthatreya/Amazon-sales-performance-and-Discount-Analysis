@@ -90,16 +90,11 @@ This project analyzes how **discount ranges influence sales, revenue, returns, a
 
 ---
 
-## 📸 Additional Screenshots
-![Discount Analysis](screenshots/discount_analysis.png)  
-![KPI Section](screenshots/kpi_section.png)
-
----
-
 ## 🎯 Conclusion
 Moderate discounts (**10–30%**) provide the best balance between **sales growth and revenue performance**, while higher discounts lead to diminishing returns.
 
 ---
 
 ## 🤝 Connect
+If you found this project useful or have suggestions, feel free to connect! and
 Open to opportunities in **Data Analytics / Power BI roles**
