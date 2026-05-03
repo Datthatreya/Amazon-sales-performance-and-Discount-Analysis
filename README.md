@@ -15,7 +15,7 @@ Built an end-to-end Power BI dashboard on **1M+ e-commerce transactions** to ana
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/Datthatreya/Amazon-sales-performance-and-Discount-Analysis/blob/main/Sales%20performance.png)
 
 ---
 
